@@ -31,7 +31,6 @@ $ npx hyperframes render proje -q looks
 • cümle arası 40 ms
 • 52 render, medyan 1 dk 18 sn
 
-Notlar için yorumlara KOD yaz, DM'den göndereyim 📩
 
 Siz kodla video yaparken her sahneyi ayrı mı çiziyorsunuz?
 
